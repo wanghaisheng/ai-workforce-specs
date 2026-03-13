@@ -1,4 +1,4 @@
-# ai-workforce-specs
+# ai-workhorse-role-based-specs
 if AI can do anything,then this repo should die
 
 
