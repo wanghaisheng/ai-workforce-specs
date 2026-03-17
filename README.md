@@ -1,4 +1,4 @@
-# AI Workhorse Framework AI Workhorse Model
+# AI Workhorse Framework aka AI Workhorse Model
 
 Formal:
 AI Workforce Role-Task-Capability Specification
