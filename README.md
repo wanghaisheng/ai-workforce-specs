@@ -1,4 +1,13 @@
-# AI Workforce Capability Specification
+# AI Workhorse Framework AI Workhorse Model
+
+Formal:
+AI Workforce Role-Task-Capability Specification
+
+Nickname:
+AI Workhorse
+
+
+
 
 if AI can do anything,then this repo should die
 
